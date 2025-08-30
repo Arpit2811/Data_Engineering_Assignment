@@ -1,0 +1,62 @@
+question
+1. What is Data Science?
+3. What is the difference between data analytics and data science?
+4. What are some of the techniques used for sampling? What is the main advantage of sampling?
+7. What are Eigenvectors and Eigenvalues?
+8. What does it mean when the p-values are high and low?
+9. When is resampling done?
+10. What do you understand by Imbalanced Data?
+11. Are there any differences between the expected value and mean value?
+12. What do you understand by Survivorship Bias?
+13. What is a Gradient and Gradient Descent?
+15. Define and explain selection bias?
+16. Define bias-variance trade-off?
+17. Define the confusion matrix?
+18. What is logistic regression? State an example where you have recently used logistic regression.
+19. What is Linear Regression? What are some of the major drawbacks of the linear model?
+20. What is a random forest? Explain it’s working.
+"21. In a  time interval of 15-minutes, the probability that you may see a shooting star or a bunch of them is 0.2. What is the percentage chance of you seeing at least one star shooting from the sky if you are under it for about an hour?"
+22. What is deep learning? What is the difference between deep learning and machine learning?
+1. How are the time series problems different from other regression problems?
+2. What are RMSE and MSE in a linear regression model?
+3. What are Support Vectors in SVM (Support Vector Machine)?
+What will you do? Have you experienced such an issue before?
+6. What is Generative Adversarial Network?
+7. What is a computational graph?
+8. What are auto-encoders?
+9. What are Exploding Gradients and Vanishing Gradients?
+10. What is the p-value and what does it indicate in the Null Hypothesis?
+"11. Since you have experience in the deep learning field, can you tell us why TensorFlow is the most preferred library in deep learning?"
+"12. Suppose there is a dataset having variables with missing values of more than 30%, how will you deal with such a dataset?"
+13. What is Cross-Validation?
+14. What are the differences between correlation and covariance?
+15. How do you approach solving any data analytics based project?
+16. How regularly must we update an algorithm in the field of machine learning?
+17. Why do we need selection bias?
+18. Why is data cleaning crucial? How do you clean the data?
+19. What are the available feature selection methods for selecting the right variables for building efficient predictive models?
+"20. During analysis, how do you treat the missing values?"
+21. Will treating categorical variables as continuous variables result in a better predictive model?
+22. How will you treat missing values during data analysis?
+23. What does the ROC Curve represent and how to create it?
+"24. What are the differences between univariate, bivariate and multivariate analysis?"
+25. What is the difference between the Test set and validation set?
+26. What do you understand by a kernel trick?
+28. How will you balance/correct imbalanced data?
+29. What is better - random forest or multiple decision trees?
+30. Consider a case where you know the probability of finding at least one shooting star in a 15-minute interval is 30%. Evaluate the probability of finding at least one shooting star in a one-hour duration?
+32. What are some examples when false positive has proven important than false negative?
+33. Give one example where both false positives and false negatives are important equally?
+34. Is it good to do dimensionality reduction before fitting a Support Vector Model?
+35. What are various assumptions used in linear regression? What would happen if they are violated?
+36. How is feature selection performed using the regularization method?
+37. How do you identify if a coin is biased?
+38. What is the importance of dimensionality reduction?
+39. How is the grid search parameter different from the random search tuning strategy?
+1. How do I prepare for a data science interview?
+2. Are data science interviews hard?
+3. What are the top 3 technical skills of a data scientist?
+4. Is data science a good career?
+5. Are coding questions asked in data science interviews?
+6. Is python and SQL enough for data science?
+7. What are Data Science tools?
