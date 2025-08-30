@@ -1,0 +1,59 @@
+Question,Category,Difficulty
+What is Data Science?,Basics,Easy
+What is the difference between data analytics and data science?,Basics,Medium
+What are some of the techniques used for sampling?,Statistics & Probability,Medium
+What is the main advantage of sampling?,Statistics & Probability,Medium
+What are Eigenvectors and Eigenvalues?,Other,Easy
+What does it mean when the p-values are high and low?,Statistics & Probability,Medium
+When is resampling done?,Statistics & Probability,Easy
+What do you understand by Imbalanced Data?,Data Handling & Cleaning,Medium
+What do you understand by Survivorship Bias?,Statistics & Probability,Medium
+What is a Gradient and Gradient Descent?,Deep Learning,Medium
+Define and explain selection bias?,Statistics & Probability,Easy
+Define bias-variance trade-off?,Statistics & Probability,Easy
+Define the confusion matrix?,Model Evaluation,Easy
+What is logistic regression?,Machine Learning,Easy
+What is Linear Regression?,Machine Learning,Easy
+What are some of the major drawbacks of the linear model?,Machine Learning,Medium
+What is a random forest?,Machine Learning,Easy
+Explain its working?,Other,Easy
+What is deep learning?,Deep Learning,Easy
+What is the difference between deep learning and machine learning?,Deep Learning,Medium
+How are the time series problems different from other regression problems?,Specialized Topics,Medium
+What are RMSE and MSE in a linear regression model?,Machine Learning,Medium
+What are Support Vectors in SVM (Support Vector Machine)?,Machine Learning,Medium
+What will you do?,Other,Easy
+What is Generative Adversarial Network?,Other,Easy
+What is a computational graph?,Deep Learning,Easy
+What are auto-encoders?,Other,Easy
+What are Exploding Gradients and Vanishing Gradients?,Deep Learning,Medium
+What is the p-value and what does it indicate in the Null Hypothesis?,Statistics & Probability,Hard
+What is Cross-Validation?,Model Evaluation,Easy
+What are the differences between correlation and covariance?,Statistics & Probability,Medium
+How do you approach solving any data analytics based project?,Basics,Medium
+How regularly must we update an algorithm in the field of machine learning?,Other,Hard
+Why do we need selection bias?,Statistics & Probability,Easy
+Why is data cleaning crucial?,Data Handling & Cleaning,Easy
+How do you clean the data?,Data Handling & Cleaning,Easy
+What are the available feature selection methods for selecting the right variables for building efficient predictive models?,Machine Learning,Hard
+How will you treat missing values during data analysis?,Data Handling & Cleaning,Medium
+What does the ROC Curve represent and how to create it?,Machine Learning,Medium
+"What are the differences between univariate, bivariate and multivariate analysis?",Specialized Topics,Medium
+What is the difference between the Test set and validation set?,Model Evaluation,Medium
+What do you understand by a kernel trick?,Specialized Topics,Medium
+How will you balancecorrect imbalanced data?,Data Handling & Cleaning,Easy
+What is better - random forest or multiple decision trees?,Machine Learning,Medium
+What are some examples when false positive has proven important than false negative?,Model Evaluation,Hard
+Give one example where both false positives and false negatives are important equally?,Model Evaluation,Hard
+Is it good to do dimensionality reduction before fitting a Support Vector Model?,Machine Learning,Hard
+What are various assumptions used in linear regression?,Machine Learning,Medium
+What would happen if they are violated?,Other,Medium
+How is feature selection performed using the regularization method?,Data Handling & Cleaning,Medium
+How do you identify if a coin is biased?,Statistics & Probability,Medium
+What is the importance of dimensionality reduction?,Data Handling & Cleaning,Medium
+How is the grid search parameter different from the random search tuning strategy?,Machine Learning,Hard
+How do I prepare for a data science interview?,Basics,Medium
+What are the top 3 technical skills of a data scientist?,Basics,Medium
+Is data science a good career?,Basics,Easy
+Is python and SQL enough for data science?,Basics,Medium
+What are Data Science tools?,Basics,Easy
