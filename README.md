@@ -14,9 +14,9 @@ Fixed text formatting (lowercase, no extra spaces or symbols) using Regex and th
 
 3.Added Labels (Annotation)
 I defined two labels for each question:
- a. Category → Example: Machine Learning, Statistics, Deep Learning, Data Cleaning, Career/General, etc.
- b. Difficulty → Easy, Medium, Hard (depending upon the length of the questions)
-by Wrinting a small Python script to tag each question.
+ a. Category Example: Machine Learning, Statistics, Deep Learning, Data Cleaning, Basics, etc.
+ b. Difficulty: Easy, Medium, Hard (depending upon the length of the questions)
+by Writing a small Python script to tag each question.
 Final labeled file is annotated_questions.csv.
 
 
