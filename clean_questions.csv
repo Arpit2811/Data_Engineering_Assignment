@@ -1,0 +1,59 @@
+Question
+What is Data Science?
+What is the difference between data analytics and data science?
+What are some of the techniques used for sampling?
+What is the main advantage of sampling?
+What are Eigenvectors and Eigenvalues?
+What does it mean when the p-values are high and low?
+When is resampling done?
+What do you understand by Imbalanced Data?
+What do you understand by Survivorship Bias?
+What is a Gradient and Gradient Descent?
+Define and explain selection bias?
+Define bias-variance trade-off?
+Define the confusion matrix?
+What is logistic regression?
+What is Linear Regression?
+What are some of the major drawbacks of the linear model?
+What is a random forest?
+Explain its working?
+What is deep learning?
+What is the difference between deep learning and machine learning?
+How are the time series problems different from other regression problems?
+What are RMSE and MSE in a linear regression model?
+What are Support Vectors in SVM (Support Vector Machine)?
+What will you do?
+What is Generative Adversarial Network?
+What is a computational graph?
+What are auto-encoders?
+What are Exploding Gradients and Vanishing Gradients?
+What is the p-value and what does it indicate in the Null Hypothesis?
+What is Cross-Validation?
+What are the differences between correlation and covariance?
+How do you approach solving any data analytics based project?
+How regularly must we update an algorithm in the field of machine learning?
+Why do we need selection bias?
+Why is data cleaning crucial?
+How do you clean the data?
+What are the available feature selection methods for selecting the right variables for building efficient predictive models?
+How will you treat missing values during data analysis?
+What does the ROC Curve represent and how to create it?
+"What are the differences between univariate, bivariate and multivariate analysis?"
+What is the difference between the Test set and validation set?
+What do you understand by a kernel trick?
+How will you balancecorrect imbalanced data?
+What is better - random forest or multiple decision trees?
+What are some examples when false positive has proven important than false negative?
+Give one example where both false positives and false negatives are important equally?
+Is it good to do dimensionality reduction before fitting a Support Vector Model?
+What are various assumptions used in linear regression?
+What would happen if they are violated?
+How is feature selection performed using the regularization method?
+How do you identify if a coin is biased?
+What is the importance of dimensionality reduction?
+How is the grid search parameter different from the random search tuning strategy?
+How do I prepare for a data science interview?
+What are the top 3 technical skills of a data scientist?
+Is data science a good career?
+Is python and SQL enough for data science?
+What are Data Science tools?
